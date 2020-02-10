@@ -1,7 +1,7 @@
 # AdbInstaller-Releases
 How to install: Download repo (or only file), unpack if needed and execute as admin.
 
-# Changelog (since v5):
+# Changelog:
 
 V5
 - [NOT WORKING] Added automated remove of Minimal ADB and Fastboot files to avoid confusion.
