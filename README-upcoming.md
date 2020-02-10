@@ -9,4 +9,5 @@ V5
 
 V6 (soon)
 - Updated Telegram handle/tag
+- Added option to only download the package, no installation
 - Changed way of displaying the ADB Version
