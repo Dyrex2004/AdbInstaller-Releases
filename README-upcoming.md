@@ -9,4 +9,4 @@ V5
 
 V6 (soon)
 - Updated Telegram handle/tag
-- Added option to only download the package, no installation
+- Added option to only download the package without installation
